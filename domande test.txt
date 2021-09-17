@@ -1,0 +1,56 @@
+MODULO 4
+Nome ____noemi_____________________
+Cognome ______morè_______________
+1) https= protocollo / www= terzo livello / google=secondo
+livello/ .com= primo livello
+
+
+
+2. 
+c) src
+
+Opzioni per valore:
+
+c) http//www.fruit.com/fruit.png
+
+
+
+3. 
+<ul>
+C
+C
+<li class="color">Giallo</li>
+<li class="color">Blu</li>
+</ul>
+
+
+4. 
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Homepage</title>
+</head>
+<body>
+<h1>Homepage</h1>
+<p id=”welcome” style= "background-color:red">Benvenuti!</p>
+<ul>
+C
+C
+<li class="color" style= "background-color:red">Giallo</li>
+<li class="color" style= "background-color:red">Blu</li>
+</ul>
+</body>
+</html>
+
+
+5. 
+<a href="www.avanade.com" title="Avanade">Avanade</a>
+
+
+
+6. Scegli l’elemento HTML corretto per avere l’heading più grande:
+
+c. <h1>
